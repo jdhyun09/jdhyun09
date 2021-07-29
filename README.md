@@ -1,5 +1,14 @@
 ### Hi there 👋
+<!-- <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/> -->
 
+### Interested in
+
+Smart Contract</br>
+Blockchain Scalability</br>
+Blockchain Security</br>
+
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <!--
 **jdhyun09/jdhyun09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
