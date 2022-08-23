@@ -4,7 +4,7 @@
 ### Interested in</br>
 
 Smart Contract</br>
-Blockchain Scalability</br>
+Zero-Knowledge</br>
 Blockchain Security</br>
 
 
