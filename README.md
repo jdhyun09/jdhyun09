@@ -8,7 +8,7 @@ Zero-Knowledge</br>
 Blockchain Security</br>
 
 
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
 <!--
 **jdhyun09/jdhyun09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
